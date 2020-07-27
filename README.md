@@ -7,18 +7,18 @@
 
 Laravel Lumen is a stunningly fast PHP micro-framework for building web applications with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Lumen attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as routing, database abstraction, queueing, and caching.
 
-## Official Documentation
+## Información
 
-Documentation for the framework can be found on the [Lumen website](https://lumen.laravel.com/docs).
+[routes](https://github.com/franklin2009/tareas-api-lumen6/blob/master/routes/web.php)
 
-## Contributing
+[models](https://github.com/franklin2009/tareas-api-lumen6/tree/master/app/Http/Models)
 
-Thank you for considering contributing to Lumen! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+[controllers](https://github.com/franklin2009/tareas-api-lumen6/tree/master/app/Http/Controllers)
 
-## Security Vulnerabilities
+[script sql](https://github.com/franklin2009/tareas-api-lumen6/blob/master/db/db.sql)
 
-If you discover a security vulnerability within Lumen, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+[Lumen 6+](https://lumen.laravel.com/docs/6.x)
 
-## License
+#
+Frontend Repo [Angular 9](https://github.com/franklin2009/tareas-angular9)
 
-The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
